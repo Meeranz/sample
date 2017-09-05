@@ -1,3 +1,4 @@
+import java.util.*;
 class equ
 {
 public static void main(String[] args0)
